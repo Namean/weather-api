@@ -3,10 +3,9 @@
 
 ## Contributers
 
-
 - [Namean](https://github.com/Namean)
-- []()
-
+- [Isere2007](https://github.com/Isere2007)
+- [Kingchris](https://github.com/kingchris212)
 
 Usage:
 Use https://weather-proxy.freecodecamp.rocks/ to get weather information for a location in JSON format. This server only accepts GET requests, and only serves the routes /api/city/:city and /api/current?lon=:longitude&lat=:latitude. 
@@ -20,4 +19,3 @@ lon=:longitude&lat=:latitude
 ```sh
 curl "https://weather-proxy.freecodecamp.rocks/api/city/new%20york"
 ```
-
